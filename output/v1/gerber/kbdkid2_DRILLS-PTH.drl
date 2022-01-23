@@ -1,0 +1,15 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.6
+; #@! TF.CreationDate,2022-01-23T01:59:08
+; #@! TF.ProjectId,kbdkid2,7819c900-32f6-47f1-a260-aa52c2de7dd9,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+METRIC,TZ
+%
+G90
+G05
+M71
+T0
+M30
