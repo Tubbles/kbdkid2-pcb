@@ -264,5 +264,6 @@
   (hole 040085d7-5566-4231-b2f9-e116f3c74733 (diameter 5.0) (position 0.0 0.0))
   (hole a52ca548-b0c8-4154-8216-b15891680452 (diameter 3.0) (position -3.75 5.0))
   (hole 21808d0a-52f1-4bb6-b70d-b3e0d23c937b (diameter 3.0) (position -5.95 0.0))
+  (hole 0f7a1d66-f94a-4cd8-be76-778ec79429c7 (diameter 1.6) (position 5.15 -5.0))
  )
 )

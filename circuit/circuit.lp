@@ -391,15 +391,6 @@
   (signal 343a05e0-6e9b-4317-a7de-61bd3c774b5c (net ca145860-adbd-4a59-b165-5430fa5a8da2))
   (signal daf86625-d081-4fd6-a925-14976f92263d (net 269d15e2-ac20-44e5-9642-acc2a0c9d526))
  )
- (component 1ab6806f-c08b-4b1f-856c-e9d0394cf253
-  (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
-  (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
-  (lib_device none)
-  (name "C4") (value "{{CAPACITANCE}}")
-  (attribute "CAPACITANCE" (type capacitance) (unit nanofarad) (value "100"))
-  (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net c70daa72-225f-49a6-99dd-b296147440f8))
-  (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 3bd0f70a-51e0-4f65-838c-b17604bd33a8))
- )
  (component 1b55041f-31ba-4201-9bc1-e533c3d4a7a0
   (lib_component 6eedad0b-5b41-4233-9b7b-8be1ee8527e0)
   (lib_variant 1517597d-d036-4ecd-95a9-a7b68f953a52)
@@ -720,15 +711,6 @@
   (name "D39") (value "{{PARTNUMBER or DEVICE}}")
   (signal 343a05e0-6e9b-4317-a7de-61bd3c774b5c (net 9dc3274b-31d4-4fb7-a8f7-a668ba8728cb))
   (signal daf86625-d081-4fd6-a925-14976f92263d (net 010bcc12-e991-4ed1-9e12-c2f2e1aab414))
- )
- (component 55557e83-007f-487e-a3a9-50c93f06f71c
-  (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
-  (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
-  (lib_device none)
-  (name "C5") (value "{{CAPACITANCE}}")
-  (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "4.7"))
-  (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net c70daa72-225f-49a6-99dd-b296147440f8))
-  (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 3bd0f70a-51e0-4f65-838c-b17604bd33a8))
  )
  (component 5635e77f-068a-4b63-a602-027e8041b02c
   (lib_component 6eedad0b-5b41-4233-9b7b-8be1ee8527e0)
@@ -1285,13 +1267,6 @@
   (name "S66") (value "{{PARTNUMBER or DEVICE}}")
   (signal 33616b61-b981-452a-a672-e564bfabf6b1 (net 5dd81e1b-4a06-4ef3-be47-b317550d438f))
   (signal 4c215f30-3492-4a32-94d3-7f3541afb7db (net 5c50fd87-0fc0-489a-a2e2-7af01111d148))
- )
- (component cc7b5559-a1a8-49c6-8c47-3f5d6a8b0e64
-  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
-  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
-  (lib_device none)
-  (name "GND2") (value "GND")
-  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 3bd0f70a-51e0-4f65-838c-b17604bd33a8))
  )
  (component ccdb1f91-65fb-453c-b612-123918cea016
   (lib_component 0ca0993c-bf55-4529-865b-849ef898b28a)
